@@ -1,2 +1,2 @@
-# leman - Version 1.0
+# leman - Version 2.0
 Leman project - QA testing
