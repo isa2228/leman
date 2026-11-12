@@ -12,7 +12,7 @@
 
 ### TC-02: Login with incorrect password
 - Open the login page.
-- Enter a valid email address.
+- 347568439573956.
 - Enter an incorrect password.
 - Click the Login button.
 - Expected result: An error message is displayed.
